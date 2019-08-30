@@ -3,3 +3,8 @@
 ################################################################################
 
 /BceDotNetSdk/bin/Debug
+/BceDotNetSdk/obj/Debug
+/BOS.Test2/obj
+/BOS.Test2/bin/Debug/netcoreapp2.2
+/packages
+/.vs/BOS.Test/v16
